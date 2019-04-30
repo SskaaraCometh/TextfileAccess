@@ -1,0 +1,10 @@
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\bin\Debug\CustomerDatabaseUI.exe.config
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\bin\Debug\CustomerDatabaseUI.exe
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\bin\Debug\CustomerDatabaseUI.pdb
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\obj\Debug\CustomerDatabaseUI.csprojAssemblyReference.cache
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\obj\Debug\CustomerDatabaseUI.AddCustomerForm.resources
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\obj\Debug\CustomerDatabaseUI.Properties.Resources.resources
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\obj\Debug\CustomerDatabaseUI.csproj.GenerateResource.cache
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\obj\Debug\CustomerDatabaseUI.csproj.CoreCompileInputs.cache
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\obj\Debug\CustomerDatabaseUI.exe
+C:\Users\Sam1\source\repos\TextFileDataAccess\CustomerDatabaseUI\obj\Debug\CustomerDatabaseUI.pdb
